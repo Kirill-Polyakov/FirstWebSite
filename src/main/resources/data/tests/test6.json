@@ -1,0 +1,138 @@
+{
+  "id": "6",
+  "testName": "5 вопросов из совершенно разных сфер — подзарядка для мозга (Часть 2)",
+  "categoryName": "Тесты на кругозор",
+  "createdBy": "39c5e741-adca-4104-b762-fb89235b678a",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Самый большой орган тела?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Кожа",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "answer": "Желудок",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "answer": "мозг",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "answer": "легкие",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Сколько всего континентов на нашей Земле?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "8",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "answer": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "answer": "6",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "answer": "5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Сколько калорий содержит вода?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "0,1 Ккал",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "answer": "3 Ккал",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "answer": "2 Ккал",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "answer": "0 Ккал",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Какого числа отмечается День объятий?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "11 июня",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "answer": "30 мая",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "answer": "6 апреля",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "answer": "21 января",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Кто был главным героем романа Ф.М. Достоевского «Преступление и наказание»?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Герасим",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "answer": "Родион Раскольников",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "answer": "Обломов",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "answer": "Болконский",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

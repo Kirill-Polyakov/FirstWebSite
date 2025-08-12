@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "39c5e741-adca-4104-b762-fb89235b678a",
+      "login": "Kirill",
+      "password": "$2a$10$n3O6QnQ20K0TIueVXfDqH.ZrujjjptyNXh1SQ9.xuViz1Nq45E7gu",
+      "role": "ADMIN"
+    },
+    {
+      "id": "b45d642e-151e-4375-8288-0d1f5df11305",
+      "login": "qwe",
+      "password": "$2a$10$WVvCoXjZ/1ZBzdupKUbFtuJQi0cDTJeV.gkspXlluxvxOcF0Nm9fm",
+      "role": "USER"
+    },
+    {
+      "id": "79a2beea-3cf2-407a-863a-bd511e0f2de0",
+      "login": "123asd",
+      "password": "$2a$10$UxOSb1/zkiqhTmd5cQsJPugkQz7q571xXIz6O1crcENYQ4PRzluv.",
+      "role": "USER"
+    }
+  ]
+}

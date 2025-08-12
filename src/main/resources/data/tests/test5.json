@@ -1,0 +1,138 @@
+{
+  "id": "5",
+  "testName": "5 вопросов из совершенно разных сфер — подзарядка для мозга (Часть 1)",
+  "categoryName": "Тесты на кругозор",
+  "createdBy": "39c5e741-adca-4104-b762-fb89235b678a",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Как называется боязнь длинных слов?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "агорафобия",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "answer": "баллистофобия",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "answer": "гиппопотомонстросескиппедалофобия",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "answer": "гедонофобия",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Сколько длится период паузы в сердечном цикле?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "1 сек",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "answer": "0,8 сек",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "answer": "0,5 сек",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "answer": "0,4 сек",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "В каком цвете собаки видят окружающий мир?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Собаки видят все оттенки серого (имеют черно - белое зрение)",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "answer": "Собаки способны различать желтый, синий и фиолетовый цвет",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "answer": "Собаки различают только красный и зеленый цвета",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "answer": "Собаки различают практически все цвета, как и человек",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Каков средний рост женщин в России?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "153 см",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "answer": "171см",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "answer": "160 см",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "answer": "168 см",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Какая наука изучает взаимодействия живых организмов между собой и с их средой обитания?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Экология",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "answer": "Биология",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "answer": "Гигиена",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "answer": "Психология",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
